@@ -1,0 +1,23 @@
+{
+  "name": "phonecountrycode",
+  "version": "0.8.0",
+  "description": "phone country code",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luapp/Phone-Country-Code.git"
+  },
+  "keywords": [
+    "phone",
+    "country"
+  ],
+  "author": "Paul Le Gall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luapp/Phone-Country-Code/issues"
+  },
+  "homepage": "https://github.com/luapp/Phone-Country-Code#readme"
+}

@@ -1,4 +1,4 @@
-const Country_code = {
+const Country_code_ts = {
     "0": {"Country": "Afghanistan", "Code": "93"},
     "1": {"Country": "Albania", "Code": "355"},
     "2": {"Country": "Algeria", "Code": "213"},
@@ -240,9 +240,3 @@ const Country_code = {
     "238": {"Country": "Zambia", "Code": "260"},
     "239": {"Country": "Zimbabwe", "Code": "263"}
 }
-//console.log(Country_code[0].Code)
-console.log(Country_code)
-
-//export default Country_code
-
-//require modules
