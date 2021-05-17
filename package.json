@@ -1,6 +1,6 @@
 {
   "name": "phonecountrycode",
-  "version": "0.8.0",
+  "version": "1.0.0",
   "description": "phone country code",
   "type": "module",
   "scripts": {
